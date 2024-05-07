@@ -1,9 +1,10 @@
 # Blockchain Lab Template
 GitHub repository template for Blockchain lab project submission. Follow the rules and the provided template in this repository to avoid penalty.
 
-## Team Member Group XX
-- Alfred Kuhlman (00000047678) @AlfredPros
-- Full Name (00000012345) @username
+## Team Member Group 10
+- Ignasius Denni Hermawan (00000045479) @username
+- Jonathan Gautama Djuasa (00000069525) @username
+- Reuben Christoper Lengkong (00000056873) @username
 
 ## Project Instruction
 1. Create your own repository.
